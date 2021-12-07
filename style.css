@@ -1,0 +1,29 @@
+.content-card{
+    display: flex;
+    position: absolute;
+    top: 100%;  
+    left: 50%; 
+    transform: translate(-50%, -50%);
+}
+
+.card{
+    margin: 0px 30px;
+}
+
+.nav-link{
+    color: #212529;
+}
+
+.pagination{
+    float: right;
+    margin-top: 18%;
+    margin-right: 26%;
+}
+
+.toast {
+    display: block !important;
+    margin-right: 20px;
+    position: absolute;
+    right: 0;
+    bottom: -50%;
+}
