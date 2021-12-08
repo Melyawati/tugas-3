@@ -1,7 +1,7 @@
 .content-card{
     display: flex;
     position: absolute;
-    top: 100%;  
+    top: 90%;  
     left: 50%; 
     transform: translate(-50%, -50%);
 }
@@ -16,7 +16,7 @@
 
 .pagination{
     float: right;
-    margin-top: 18%;
+    margin-top: 17%;
     margin-right: 26%;
 }
 
